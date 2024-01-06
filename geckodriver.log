@@ -1,0 +1,29 @@
+1704571417870	geckodriver	INFO	Listening on 127.0.0.1:62145
+1704571420909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Diego Porto\\AppData\\Local\\Temp\\rust_mozprofileeSDESF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704571421515	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704571421973	Marionette	INFO	Listening on port 62155
+Read port: 62155
+1704571422195	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1704571430104	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1704571452217	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704571544610	Marionette	INFO	Stopped listening on port 62155
+Dynamically enable window occlusion 1
+1704572032498	geckodriver	INFO	Listening on 127.0.0.1:62308
+1704572035521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Diego Porto\\AppData\\Local\\Temp\\rust_mozprofile43tjBQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1704572036020	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1704572036499	Marionette	INFO	Listening on port 62318
+Read port: 62318
+1704572036677	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1704572068070	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+console.log: "RemoteSettingsWorker error: DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements."
+console.error: (new RemoteSettingsWorkerError("DataError: IndexedDB: records, timestamps execute() Data provided to an operation does not meet requirements.", "resource://services-settings/RemoteSettingsWorker.sys.mjs", 34))
+1704572129648	Marionette	INFO	Stopped listening on port 62318
+Dynamically enable window occlusion 1
